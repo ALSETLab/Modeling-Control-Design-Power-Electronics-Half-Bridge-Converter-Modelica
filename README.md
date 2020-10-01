@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/234606333.svg)](https://zenodo.org/badge/latestdoi/234606333)
+
 Object Oriented Modeling and Control Design for Power Electronics Half-Bridge Converter using Modelica
 =====================================
 **Authors:** Giuseppe Laera (giuslaera@gmail.com), Luigi Vanfretti (luigi.vanfretti@gmail.com), Kyle Thomas (kyle.thomas@dominionenergy.com), Matthew Gardner (matthew.gardner@dominionenergy.com)
